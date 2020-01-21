@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenusYEsasCosas</string>
+    <string name="menuItem_principal_personas">Personas</string>
+    <string name="menuItem_principal_bloc">Bloc de notas</string>
+</resources>
