@@ -2,4 +2,6 @@
     <string name="app_name">MenusYEsasCosas</string>
     <string name="menuItem_principal_personas">Personas</string>
     <string name="menuItem_principal_bloc">Bloc de notas</string>
+    <string name="menuItem_personas_llamar">Llamar</string>
+    <string name="menuItem_personas_correo">Correo</string>
 </resources>
